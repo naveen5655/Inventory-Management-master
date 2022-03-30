@@ -78,12 +78,12 @@ WSGI_APPLICATION = 'inventorySystem.wsgi.application'
 
 DATABASES = {
     'default': {
-         'ENGINE': 'django.db.backends.mysql',
-        'NAME':  'sdp',
-        'USER':'root',
-        'PASSWORD':'postgres',
-        'HOST':'localhost',
-        'PORT':'3306',
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'sdp2',
+        'USER': 'admin',
+        'PASSWORD': 'postgres',
+        'HOST': 'database-sdp.ccj4mzhgmeae.us-east-1.rds.amazonaws.com',
+        'PORT': '3306',
     }
 }
 
