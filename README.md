@@ -1,8 +1,7 @@
 # Inventory-Management
-Created using Django
-This is Inventory management where the admin can create users and add inventory and update inventory and delete inventory base on his choice
-Used plotly library and django pandas to create visualisations and dashboards for getting detailed insights about inventory 
-This is our SDP project created with Django as frontend and by using bootstrap for styling and sqlite3 as database
+Inventory management means where the admin can create users and add inventory and update inventory and delete inventory base on his choice.
+In this project I used plotly library and django pandas to create visualisations and dashboards for getting detailed insights about inventory .
+
 
 To run this project
 
